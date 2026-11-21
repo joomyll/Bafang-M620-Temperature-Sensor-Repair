@@ -5,7 +5,7 @@ This repository documents the investigation of a motor temperature sensing fault
 
 ## Investigation and Repair Documentation
 
-This repository documents the investigation of a motor temperature sensing fault in the Bafang M620 (Ultra) mid-drive motor.
+This repository documents the investigation of a motor temperature sensing fault in the Bafang M620 (UART) mid-drive motor.
 
 The purpose is to identify the original temperature sensor, understand the controller's temperature measurement circuit, and document a reliable repair procedure.
 
