@@ -77,8 +77,6 @@ The observations suggest:
 5. The original sensor may be a PTC rather than a conventional NTC.
 6. KTY84/130 is a candidate requiring further investigation.
 
-None of these observations alone confirms the original sensor specification.
-
 ## 6. Repair Objective
 
 The objective is to identify a suitable replacement sensor and restore the original motor temperature protection.
@@ -97,10 +95,7 @@ If you have experience with Bafang M620 / Ultra temperature sensor failures, ple
 - PCB photographs and verified connector pinouts.
 - Successful replacement sensor information.
 - Confirmed repair procedures.
-
-Please distinguish measured facts from assumptions when submitting information.
-
----
+- 
 
 **Project status:** Ongoing investigation.
 
